@@ -18,7 +18,11 @@
 ![TryHackMe](https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=)
 ![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=)
 
+:calling: Contact me:
+<a href="https://www.facebook.com/ricefieldH"  target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/c0w0ke/"  target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
+:trophy: Github stats:
 ![My stats](https://github-readme-stats.vercel.app/api?username=c0w0ke&show_icons=true&theme=prussian)
  
 
