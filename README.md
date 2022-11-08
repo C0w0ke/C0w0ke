@@ -1,4 +1,4 @@
-## [Welcome to my Github profile](github.com/c0w0ke)
+## [Welcome to my Github profile](c0w0ke.vercel.app)
 
 - 💻 A student from FPT University in process of learning Cyber Security 💻
 - Love playing CTFs (TryHackMe, HackTheBox, picoCTF, WhiteHat)
