@@ -1,11 +1,11 @@
-<h1>Welcome to my Github profile</h1>(github.com/c0w0ke)
+## [Welcome to my Github profile](github.com/c0w0ke)
 
 - 💻 A student from FPT University in process of learning Cyber Security 💻
 - Love playing CTFs (TryHackMe, HackTheBox, picoCTF, WhiteHat)
 - Love playing GAMES.	
 <br></br>
 
-<h1>Tech Stack<h1>
+## Tech Stack
  
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 ![Kali Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=)
