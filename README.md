@@ -3,7 +3,7 @@
 </h1>
 
 - 💻 A student from FPT University in process of learning Cyber Security 💻
-- Love playing CTFs (TryHackMe, HackTheBox, picoCTF, WhiteHat)
+- Playing CTFs (TryHackMe, HackTheBox, picoCTF, WhiteHat)
 - Love playing GAMES.	
 <br></br>
 
